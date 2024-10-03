@@ -1,4 +1,4 @@
-const { fetchLatestBaileysVersion, useMultiFileAuthState, DisconnectReason } = await import('@whiskeysockets/baileys')
+/*const { fetchLatestBaileysVersion, useMultiFileAuthState, DisconnectReason } = await import('@whiskeysockets/baileys')
 import qrcode from 'qrcode'
 import fs from 'fs'
 import pino from 'pino'
@@ -154,4 +154,4 @@ export default handler
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms))
-}
+}*/
